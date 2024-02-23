@@ -1,0 +1,32 @@
+// pseudocode.txt
+
+// Fib Numbers value
+let value1 = 0
+let value2 = 1
+
+//loop fib numbers
+for (let ran = 0;ran <=100; ran++){
+    value2= value1 + value2
+    value1= value1 + value2
+
+}
+
+
+console.log(value1,value2)
+
+
+
+
+// ex{
+ //example 
+ val1= 0
+ val= 1
+ //then
+ for (let i = 0; i < 10; i++) {
+   
+   
+   
+    consloe.log(val1,val2)
+
+    }
+}

@@ -1,0 +1,21 @@
+7.34544867157818e+41 4.53973694165308e+41
+put the console.log above and in the brackets to include it in the function
+
+
+1 1
+3 2
+8 5
+21 13
+55 34
+144 89 
+To
+
+1 2
+3 5 
+8 13
+21 34
+55 89
+to fix this switch form number2= number1 + number2     To number1= number1 + number2
+                         number1= number1 + number2           number2= number1 + number2
+    by swithcing this the number will change in order
+
